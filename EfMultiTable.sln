@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EfMultiTable.Infrastructure", "EfMultiTable.Infrastructure\EfMultiTable.Infrastructure.csproj", "{65F62F9C-DFA3-44E1-A1C1-557403649945}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EfMultiTable.Infrastructure.Tests", "EfMultiTable.Infrastructure.Tests\EfMultiTable.Infrastructure.Tests.csproj", "{89A08AD7-AB6D-4AC9-B0F7-29342BA01952}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65F62F9C-DFA3-44E1-A1C1-557403649945}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65F62F9C-DFA3-44E1-A1C1-557403649945}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65F62F9C-DFA3-44E1-A1C1-557403649945}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65F62F9C-DFA3-44E1-A1C1-557403649945}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89A08AD7-AB6D-4AC9-B0F7-29342BA01952}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89A08AD7-AB6D-4AC9-B0F7-29342BA01952}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89A08AD7-AB6D-4AC9-B0F7-29342BA01952}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89A08AD7-AB6D-4AC9-B0F7-29342BA01952}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52FD66E9-09FB-4301-8357-A822FE58F9E6}
+	EndGlobalSection
+EndGlobal
